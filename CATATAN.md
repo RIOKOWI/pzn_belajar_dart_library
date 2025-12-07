@@ -10,6 +10,9 @@ KEUNTUNGAN MENGGUNAKAN DART PACKAGES
 
 ## MEMBUAT PROJECT LIBRARY 
 
+contoh di file :
+LIBRARY\pzn_belajar_dart_library
+
 perintah :
 dart create--template=package-simple pzn_belajar_dart_library
 
