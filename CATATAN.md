@@ -7,3 +7,9 @@
 KEUNTUNGAN MENGGUNAKAN DART PACKAGES
 - dengan menggunakan packages, kita akan mengikuti cara management kode Dart
 - dengan packages juga kita bisa melakukan dependency management secara otomatis tanpa harus download library yang kita butuhkan secara manual
+
+## MEMBUAT PROJECT LIBRARY 
+
+perintah :
+dart create--template=package-simple pzn_belajar_dart_library
+
