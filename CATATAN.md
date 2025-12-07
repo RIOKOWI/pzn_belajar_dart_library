@@ -57,3 +57,6 @@ EXPORT LIBRARY
 - jangan lupa untuk menambahkan kata kunci library dan diikuti dengan nama library yang kita buat, walaupun tidak wajib, tapi direkomendasikan menggunakan nya, karena secara default jika kita tidak menambahkan library, secara otomatis nama library nya adalah string kosong.
 
 contoh di file :
+LIBRARY\pzn_belajar_dart_library\lib\src\say_hello.dart
+LIBRARY\pzn_belajar_dart_library\lib\src\customer.dart
+LIBRARY\pzn_belajar_dart_library\lib\hello.dart
