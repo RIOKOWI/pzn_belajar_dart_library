@@ -65,3 +65,4 @@ contoh di file :
 LIBRARY\pzn_belajar_dart_library\lib\src\say_hello.dart
 LIBRARY\pzn_belajar_dart_library\lib\src\customer.dart
 LIBRARY\pzn_belajar_dart_library\lib\hello.dart
+LIBRARY\pzn_belajar_dart_library\example\hello.dart
