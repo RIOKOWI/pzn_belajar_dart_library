@@ -56,6 +56,11 @@ EXPORT LIBRARY
 - kita bisa menggunakan kata kunci export jika ingin mengekspos semua kode di dalam file dart, atau gunakan export show jika hanya beberapa saj
 - jangan lupa untuk menambahkan kata kunci library dan diikuti dengan nama library yang kita buat, walaupun tidak wajib, tapi direkomendasikan menggunakan nya, karena secara default jika kita tidak menambahkan library, secara otomatis nama library nya adalah string kosong.
 
+IMPORT LIBRARY
+- setelah membuat library jika kita ingin menggunakannya, kita bisa mencobanya di folder example
+- kita bisa melakukan import dengan pola:
+package:nama_library/file.dart
+
 contoh di file :
 LIBRARY\pzn_belajar_dart_library\lib\src\say_hello.dart
 LIBRARY\pzn_belajar_dart_library\lib\src\customer.dart
