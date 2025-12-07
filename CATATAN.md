@@ -45,3 +45,10 @@ LIBRARY\pzn_belajar_dart_library\lib\src\pzn_belajar_dart_library_base.dart
 contoh di file :
 pubspec.yaml
 LIBRARY\pzn_belajar_dart_library\pubspec.yaml
+
+## MEMBUAT LIBRARY
+
+- saat membuat kode dart di dart packages, disarankan lakukan di dalam folder src
+- dan ketika melakukan import kode dart dari library, jangan import dari folder src, hal ini karena kode di src biasanya digunakan sebagai internal library, dan tidak dijamin akan backward compatible ketika terjadi update library
+
+contoh di file :
