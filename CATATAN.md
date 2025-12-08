@@ -87,3 +87,9 @@ DRY RUN
 
 - sebelum publish packages kita, kita bisa mencoba memastikan tidak ada masalah, dengan mencoba dry run, caranya gunakan perintah :
     dart pub publish --dry-run
+
+PUBLISH PACKAGES
+
+- jika sudh tidak ada masalah dengan dart packages kita, kita bisa publish ke pub.dev dengan perintah :
+    dart pub publish
+- ketika pertama kali publish, biasanya kita akan diminta untuk login menggunakan google account
