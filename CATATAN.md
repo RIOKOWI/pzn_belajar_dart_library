@@ -75,3 +75,11 @@ pubspec.yaml
 
 contoh di file :
 lib\src\say_hello.dart
+
+## PUBLISH PACKAGES KE Pub.dev
+
+PERSIAPAN PUBLISH PACKAGES
+
+- perlu di ingat, ketika kita publish dart packages kita ke pub.dev, makan akan ada selamanya. kita tidak bisa menghapus yang sudah kita publish, karena dilakukan ketika banyak yang menggunakan dart packages kita, lalu kita hapus, maka otomatis semua project dart orang lain akan rusak.
+- selain itu, pastikan kita menambahkan LICENSE file dan ukuran dart packages kita tidak lebih dari 100MB
+
